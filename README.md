@@ -23,8 +23,8 @@ This was a basic app created with the MERN stack to learn its basics following t
 - Using toast messages to show error messages
 
 ## How to run the app
-Make sure the NODE_ENV variable is set to development
-Set the PORT, MONGO_URI, and JWT_SECRET environment variables to your needs
-Run `npm install`
-Run `concurrently \"npm run server\" \"npm run client\`
-Go to `localhost:[port-you-set-in-the-frontend]` and see the app
+- Make sure the NODE_ENV variable is set to development
+- Set the PORT, MONGO_URI, and JWT_SECRET environment variables to your needs
+- Run `npm install`
+- Run `concurrently \"npm run server\" \"npm run client\`
+- Go to `localhost:[port-you-set-in-the-frontend]` and see the app
